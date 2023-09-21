@@ -81,7 +81,7 @@ https://github.com/denirus59/my-first-git/commit/51884c71493e56dbaa1d7a7cb999148
 
 https://github.com/denirus59/my-first-git/network
 
-Ваш граф комитов должен выглядеть аналогично скриншоту:   
+Граф комитов:   
 
 ![скрин для Git](img/dev-main.JPG)
 
