@@ -41,6 +41,7 @@
 1. Сделайте `git push origin master`.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
 https://github.com/denirus59/my-first-git/commit/6622ba74a62a7ff5e7819e5ba190e238abd5b96d
 
 
