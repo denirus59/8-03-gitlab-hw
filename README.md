@@ -57,6 +57,10 @@ https://github.com/denirus59/my-first-git/commit/6622ba74a62a7ff5e7819e5ba190e23
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+![image](img/ignore-file.JPG)
+
+
+https://github.com/denirus59/my-first-git/commit/51884c71493e56dbaa1d7a7cb999148e365e1eb4
 
 ---
 
